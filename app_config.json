@@ -1,7 +1,8 @@
 {
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-  "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
+  "admob_app_id": "ca-app-pub-367184686229938~2610819371",
+  "ads": {
+    "banner": "ca-app-pub-367184686229938/1054195127",
+    "interstitial": "ca-app-pub-367184686229938/8741113452",
+    "rewarded": "ca-app-pub-367184686229938/9147188003"
+  }
 }
